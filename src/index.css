@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+body {
+  min-height: 100vh;
+  min-width: 100vw;
+  margin: 0;
+  background: linear-gradient(135deg, #1a202c 0%, #2d3748 100%);
+  color: #fff;
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+}
+
+#root {
+  min-height: 100vh;
+  min-width: 100vw;
+}
+
